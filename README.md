@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @fannie0000
+- A maker that passionate with all tech stuff
 - 👀 I’m interested in tech stuff, fun stuff and cute stuff, specifically, cats
 - 🌱 I’m currently learning in the ASU
 - 💞️ I’m looking to collaborate on some fun open source project
