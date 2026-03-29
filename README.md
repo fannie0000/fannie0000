@@ -6,10 +6,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Fannie</h1>
 <h3 align="center">A passionate dev from USA</h3>
 
+<p align="left"><img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=fannie0000&theme=light" alt="fannie0000" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fannie0000&label=Profile%20views&color=0e75b6&style=flat" alt="fannie0000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fannie0000" alt="fannie0000" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fannie0000" target="blank"><img src="https://img.shields.io/twitter/follow/fannie0000?logo=twitter&style=for-the-badge" alt="fannie0000" /></a> </p>
 
 - 👀 I’m interested in **tech stuff, fun stuff and cute stuff, specifically, cats**
